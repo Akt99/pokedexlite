@@ -2,7 +2,7 @@
 
 Pokédex Lite is a modern, responsive web application built using React and TypeScript that allows users to explore Pokémon data fetched from the public PokéAPI.  
 Users can browse Pokémon with pagination, search and filter them by type, mark favorites, and view detailed Pokémon information.
-
+deployed for vercel but used netlify instead
 ---
 
 
