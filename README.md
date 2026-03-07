@@ -61,7 +61,7 @@ Stored favorites in **localStorage** and synchronized them across the app using 
 
 ## Features
 
-- Fetches Pokémon data from PokéAPI
+- Fetches Pokémon data from PokéAPI api
 - Paginated Pokémon listing
 - Search Pokémon by name (debounced)
 - Filter Pokémon by type
