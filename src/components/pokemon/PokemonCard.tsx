@@ -35,7 +35,7 @@ export default function PokemonCard({ name, url }: Props) {
       src={image}
       alt={name}
       onError={(e) => {
-      const img = e.currentTarget as HTMLImageElement;
+      const img = e.currentTarget as HTMLImageElement;// collects the image
     // replace with a small placeholder shipped with your app (put placeholder.png in /public)
       img.src = '/placeholder.png';
       img.style.objectFit = 'contain';
